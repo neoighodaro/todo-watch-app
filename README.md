@@ -1,6 +1,6 @@
 # Todo App
 
-An app that shows the realtime functionalities between a watch and an iPhone.
+An app that shows the realtime functionalities between a watch and an iPhone. [View tutorial](https://pusher.com/tutorials/to-do-list-apple-watch).
 
 ## Getting Started
 
